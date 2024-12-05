@@ -14,7 +14,7 @@ sudo apt install -y nodejs
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/dante4rt/getgrass-bot.git
+   git clone https://github.com/moneytree520/getgrass-bot.git
    ```
 
 2. Navigate to the project directory:
@@ -33,7 +33,7 @@ sudo apt install -y nodejs
 
 1. Obtain your user ID from the Getgrass website:
 
-   - Visit [https://app.getgrass.io/dashboard](https://app.getgrass.io/register/?referralCode=NXZg3yAsUsXKzy2).
+   - Visit [https://app.getgrass.io/dashboard](https://app.getgrass.io/register/?referralCode=2KTLkOimdD0N9Rk).
    - Open your browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect").
    - Go to the "Console" tab.
    - Paste the following command and press Enter:
@@ -68,9 +68,9 @@ sudo apt install -y nodejs
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+- **Solana**: `2FK5jNxG6PE5Z5dsP7KkGetrkDGu3ntnd5Dy2bHAFPRb`
+- **USDT(BSC)**: `0x2432AA3bB8f3D3C1513002caF028D9B3BB88C864`
+- **ETH**: `0x4b69Bd0996A73D339f1dcbD4f8868802cC246AbD`
 
 ## License
 
